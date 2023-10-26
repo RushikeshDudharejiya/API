@@ -1,0 +1,299 @@
+{
+    "userdata": [
+        {
+            "id": "1",
+            "image": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1696599013_6165721.jpg?format=webp&w=240&dpr=1.5",
+            "title": "Naruto: Itachi",
+            "category": "Men High Top Sneakers",
+            "price": "₹ 2499",
+            "offer": "16% OFF"
+        },
+        {
+            "id" : "2",
+            "image" : "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1673596250_4553981.jpg?format=webp&w=240&dpr=1.5",
+            "title" : "Naruto: The Gang",
+            "category" : "Women Oversized T-Shirts",
+            "price" : "₹ 799"
+        },
+        {
+            "id" : "3",
+            "image" : "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1694407217_9612043.jpg?format=webp&w=240&dpr=1.5",
+            "title" : "Naruto: The Last Uchiha",
+            "category" : "Oversized Shirts",
+            "price" : "₹ 1499"
+        },
+        {
+            "id" : "4",
+            "image" : "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1694834120_3747207.jpg?format=webp&w=240&dpr=1.5",
+            "title" : "Naruto: Sannin",
+            "category" : "Oversized T-Shirts",
+            "price" : "₹ 999"
+        },
+        {
+            "id" : "5",
+            "image" : "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1694268986_6804001.jpg?format=webp&w=240&dpr=1.5",
+            "title" : "Naruto: Kakashi Ninja",
+            "category" :  "Oversized Shirts",
+            "price" : "₹ 1499"
+        },
+        {
+            "id" : "6",
+            "image" : "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/Naruto-10-Men-Basketball-Coord-Set--12023_07_04-10-18-32.jpg?format=webp&w=240&dpr=1.5",
+            "title" : "Naruto: Uzumaki Set",
+            "category" : "Men Co-ord Sets",
+            "price" : "₹ 1780",
+            "offer" : "5% OFF"
+        },
+        {
+            "id" : "7",
+            "image" : "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/Naruto-23-Men-Basketball-Coord-Set--012023_07_04-10-14-30.jpg?format=webp&w=240&dpr=1.5",
+            "title" : "Naruto: Uchiha Set",
+            "category" : "Men Co-ord Sets",
+            "price" : "₹ 1698",
+            "offer" : "10% OFF"
+        },
+        {
+            "id" : "8",
+            "image" : "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1674112253_7415787.jpg?format=webp&w=240&dpr=1.5",
+            "title" : "Naruto: Yin-Yang",
+            "category" : "Oversized Shirts",
+            "price" : "₹ 999"
+        },
+        {
+            "id" : "9",
+            "image" : "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1694407277_8033434.jpg?format=webp&w=240&dpr=1.5",
+            "title" : "Naruto: Gaara Of The Desert",
+            "category" : "Oversized Shirts",
+            "price" : "₹ 1499"
+        },
+        {
+            "id" : "10",
+            "image" : "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1693312693_3461311.jpg?format=webp&w=240&dpr=1.5",
+            "title" : "Naruto: Gaara",
+            "category" : "Boyfriend T-Shirts",
+            "price" : "₹ 799",
+            "offer" : "20% OFF"
+        },
+        {
+            "id" : "11",
+            "image" : "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1695278525_8591482.jpg?format=webp&w=240&dpr=1.5",
+            "title" : "Naruto: Sasuke",
+            "category"  : "Oversized Full Sleeve T-Shirts",
+            "price" : "₹ 999",
+            "offer" : "16% OFF"
+        },
+        {
+            "id" : "12",
+            "image" : "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1692277475_3459986.jpg?format=webp&w=240&dpr=1.5",
+            "title" : "Naruto: Ninja Force",
+            "category" : "Printed Shirts",
+            "price" : "₹ 1199"
+        },
+        {
+            "id" : "13",
+            "image" : "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1673591484_9021583.jpg?format=webp&w=240&dpr=1.5",
+            "title" : "Naruto: Gaara of the Sand",
+            "category" : "Men Relaxed Fit T-Shirts",
+            "price" : "₹ 699"
+        },
+        {
+            "id" : "14",
+            "image" : "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1697870187_5657289.jpg?format=webp&w=240&dpr=1.5",
+            "title" : "Naruto: Uzumaki",
+            "category" : "Men Cargo Joggers",
+            "price" : "₹ 1299"
+        },
+        {
+            "id" : "15",
+            "image" : "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1686897538_6497854.jpg?format=webp&w=240&dpr=1.5",
+            "title" : "Naruto: Attack",
+            "category" : "Boxer Shorts",
+            "price" : "₹ 399",
+            "offer" : "20% OFF"
+        },
+        {
+            "id" : "16",
+            "image" : "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1695390652_6100348.jpg?format=webp&w=240&dpr=1.5",
+            "title" : "Naruto: Jinchuriki",
+            "category" : "Oversized Shirts",
+            "price" : "₹ 1499"
+        },
+        {
+            "id" : "17",
+            "image" : "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1684483839_7086228.jpg?format=webp&w=240&dpr=1.5",
+            "title" : "Naruto: Uchiha Clan",
+            "category" : "Oversized Full Sleeve T-Shirts",
+            "price" : "₹ 999"
+        },
+        {
+            "id" : "18",
+            "image" : "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1682144458_8572552.jpg?format=webp&w=240&dpr=1.5",
+            "title" : "Naruto: Uchiha 23",
+            "category" : "Oversized Jerseys",
+            "price" : "₹ 799"
+        },
+        {
+            "id" : "19",
+            "image" : "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1695452910_1758346.jpg?format=webp&w=240&dpr=1.5",
+            "title" : "Naruto: Signature",
+            "category" : "Men Low Top Sneakers",
+            "price" : "₹ 1699",
+            "offer" : "43% OFF"
+        },
+        {
+            "id" : "20",
+            "image" : "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1673585304_3842168.jpg?format=webp&w=240&dpr=1.5",
+            "title" : "Naruto: Hero",
+            "category" : "Men Relaxed Fit T-Shirts",
+            "price" : "₹ 599",
+            "offer" : "25% OFF"
+        },
+        {
+            "id" : "21",
+            "image" : "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1693826090_4181689.jpg?format=webp&w=240&dpr=1.5",
+            "title" : "Naruto: Akatsuki Cloud",
+            "category" : "T-Shirts",
+            "price" : "₹ 599"
+        },
+        {
+            "id" : "22",
+            "image" : "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1693225367_6761749.jpg?format=webp&w=240&dpr=1.5",
+            "title" : "Naruto: Anbu Black Ops",
+            "category" : "Oversized T-Shirts",
+            "price" : "₹ 999"
+        },
+        {
+            "id" : "23",
+            "image" : "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1673516903_5758663.jpg?format=webp&w=240&dpr=1.5",
+            "title" : "Naruto: Team Kakashi",
+            "category" : "Men Relaxed Fit T-Shirts",
+            "price" : "₹ 599"
+        },
+        {
+            "id" : "24",
+            "image" : "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1673516375_1969935.jpg?format=webp&w=240&dpr=1.5",
+            "title" : "Naruto: Believe it",
+            "category" : "Oversized T-Shirts",
+            "price" : "₹ 799",
+            "offer" : "20% OFF"
+        },
+        {
+            "id" : "25",
+            "image" : "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1682144441_7929193.jpg?format=webp&w=240&dpr=1.5",
+            "title" : "Naruto: Uzumaki 10",
+            "category" : "Oversized Jerseys",
+            "price" : "₹ 999"
+        },
+        {
+            "id" : "26",
+            "image" : "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1673616724_1847563.jpg?format=webp&w=240&dpr=1.5",
+            "title" : "Naruto: Uzumaki",
+            "category" : "Men Cargo Joggers",
+            "price" : "₹ 1199",
+            "offer" : "25% OFF"
+        },
+        {
+            "id" : "27",
+            "image" : "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1684484680_6565279.jpg?format=webp&w=240&dpr=1.5",
+            "title" : "Naruto: What A Drag",
+            "category" : "Oversized Full Sleeve T-Shirts",
+            "price" : "₹ 999",
+            "offer" : "16% OFF"
+        },
+        {
+            "id" : "28",
+            "image" : "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1697773880_3369973.jpg?format=webp&w=240&dpr=1.5",
+            "title" : "Naruto: Pattern",
+            "category" : "Printed Shirts",
+            "price" : "₹ 999",
+            "offer" : "16% OFF"
+        },
+        {
+            "id" : "29",
+            "image" : "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1685083955_5522971.jpg?format=webp&w=240&dpr=1.5",
+            "title" : "Naruto: Akatsuki Symbol",
+            "category" : "Men Cargo Joggers",
+            "price" : "₹ 1699"
+        },
+        {
+            "id" : "30",
+            "image" : "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1694593748_1116728.jpg?format=webp&w=240&dpr=1.5",
+            "title" : "Naruto: Akatsuki Pattern",
+            "category" : "Boxer Shorts",
+            "price" : "₹ 349",
+            "offer" : "30% OFF"
+        },
+        {
+            "id" : "31",
+            "image" : "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1673585389_2625270.jpg?format=webp&w=240&dpr=1.5",
+            "title" : "Naruto: Uzumaki",
+            "category" : "Men Relaxed Fit T-Shirts",
+            "price" : "₹ 799"
+        },
+        {
+            "id" : "32",
+            "image" : "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1673852030_3788020.jpg?format=webp&w=240&dpr=1.5",
+            "title" : "Naruto: Sasuke Uchiha",
+            "category" : "Sweatshirts",
+            "price" : "₹ 999",
+            "offer" : "41% OFF"
+        },
+        {
+            "id" : "33",
+            "image" : "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1687365661_1687199.jpg?format=webp&w=240&dpr=1.5",
+            "title" : "Naruto: 23",
+            "category" : "Men Lounge Shorts",
+            "price" : "₹ 899"
+        },
+        {
+            "id" : "34",
+            "image" : "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1686907975_8317831.jpg?format=webp&w=240&dpr=1.5",
+            "title" : "Naruto: 10",
+            "category" : "Men Lounge Shorts",
+            "price" : "₹ 799"
+        },
+        {
+            "id" : "35",
+            "image" : "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1693312742_2587970.jpg?format=webp&w=240&dpr=1.5",
+            "title" : "Naruto: Ichiraku Ramen",
+            "category" : "Boyfriend T-Shirts",
+            "price" : "₹ 999"
+        },
+        {
+            "id" : "36",
+            "image" : "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1684564014_1020067.jpg?format=webp&w=240&dpr=1.5",
+            "title" : "Naruto: Sakura The Kunoichi",
+            "category" : "Women Oversized T-Shirts",
+            "price" : "₹ 699"
+        },
+        {
+            "id" : "37",
+            "image" : "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/Naruto-Believe-It-Boys-Cotton-T-Shirts_12023_08_07-10-51-05.jpg?format=webp&w=240&dpr=1.5",
+            "title" : "Naruto: Believe It Set",
+            "category" : "Boys Cotton Co-ord Sets",
+            "price" : "₹ 758",
+            "offer" : "41% OFF"
+        },
+        {
+            "id" : "38",
+            "image" : "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1696671133_2747314.jpg?format=webp&w=240&dpr=1.5",
+            "title" : "Naruto: The Ninja",
+            "category" : "Boys Cotton Oversized T-Shirts",
+            "price" : "₹ 449"
+        },
+        {
+            "id" : "39",
+            "image" : "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1697458913_9385747.jpg?format=webp&w=240&dpr=1.5",
+            "title" : "Naruto: Sakura",
+            "category" : "Girls Cotton T-Shirts",
+            "price" : "₹ 499"
+        },
+        {
+            "id" : "40",
+            "image" : "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1696856043_2251256.jpg?format=webp&w=240&dpr=1.5",
+            "title" : "Naruto: Kunoichi",
+            "category" : "Girls Cotton Oversized T-Shirts",
+            "price" : "₹ 499"
+        }
+    ]
+}
